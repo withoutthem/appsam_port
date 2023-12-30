@@ -1,0 +1,7 @@
+{
+  "description": "",
+  "dependencies": {
+    "sass": "^1.69.6",
+    "scss": "^0.2.4"
+  }
+}

@@ -1,0 +1,41 @@
+
+< git 만들기 >
+
+1. github 로그인
+
+2. 폴더 만들기 -> git init
+
+3. git remote add origin [URL] // 연결됨
+
+4. git add .
+
+5. git commit -m 'message'
+
+6. git push -u origin master
+
+
+< 자주 사용하는 git 명령어 >
+
+1. git status : 상태확인
+
+2. git branch : 현재 브랜치 확인
+
+3. git checkout -b [branch name] : 브랜치 생성
+
+4. git checkout [branch name] : 브랜치 이동
+
+5. git branch -d [branch name] : 브랜치 삭제
+
+6. git merge [branch name] : 브랜치 병합
+
+7. git clone [URL] : github에서 가져오기
+
+8. git pull origin master : github에서 최신버전 가져오기
+
+9. git reset --hard : 현재 로컬에 있는 모든 변경사항을 삭제하고 최신버전으로 돌아가기
+
+10. git reset --hard origin [branch name] : 현재 로컬에 있는 모든 변경사항을 삭제하고 github에서 최신버전으로 돌아가기
+
+11. git fetch origin : github에서 최신버전 가져오기
+
+< git branch 전략에 대한 설명 > (gitHub PR을 통한 협업)

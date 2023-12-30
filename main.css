@@ -1,0 +1,14 @@
+
+/*1강 */
+.gsap_box1{width:500px; height:500px; background:red; }
+
+/*2강 */
+.gsap_box2{width:300px; height:300px; background:green;}
+.gsap_box3{width:300px; height:400px; background:blue;}
+
+/*3강 */
+.dummy{width:500px; height:500px; background:yellow; position:relative; margin:30px;}
+.gsap_box4{width:500px; height:400px; position:relative;  background:blue; margin:0px;}
+.gsap_box5{width:500px; height:400px; background:blue; margin:0px;}
+
+canvas {width:100vw; height:100vh;}
