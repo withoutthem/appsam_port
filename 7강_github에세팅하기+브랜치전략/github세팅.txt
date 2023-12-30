@@ -9,6 +9,8 @@
 
 4. git add .
 
+수정 수정
+
 5. git commit -m 'message'
 
 6. git push -u origin master
